@@ -1,13 +1,13 @@
 # Insurance-Analysis-Project
 
-**Performance Metrics:**  
-**Cross-Sell:** 58.71% placement achievement, 14.21% invoice achievement.  
-**New Business:** 16.57% placement achievement, 2.90% invoice achievement.  
-**Renewal Business:** 149.62% placement achievement, 66.92% invoice achievement.  
+📈**Performance Metrics:**  
+- **Cross-Sell:** **58.71%** placement achievement, **14.21%** invoice achievement.  
+- **New Business:** **16.57%** placement achievement, **2.90%** invoice achievement.  
+- **Renewal Business:** **149.62%** placement achievement, **66.92%** invoice achievement.  
 
-**Opportunities:**
-44 out of 49 opportunities open.  
-op opportunity: Fire category with a revenue of 500K.  
+💼 **Opportunities:**
+- **44** out of **49** opportunities open.  
+- open opportunity: Fire category with a revenue of **500K**.  
 
 **📊 Dashboard Previews**
 - **Excel Dashboard:**
